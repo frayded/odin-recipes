@@ -1,0 +1,31 @@
+.overall {
+    background-color: #e8e8e8;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #14386e;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.subhead2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.img {
+    display: block;
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button.to-top {
+    text-align: center;
+}
+
+.button.homepage {
+    text-align: center;
+}
