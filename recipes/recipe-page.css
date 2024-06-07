@@ -1,0 +1,35 @@
+body {
+  background-color: #f5f5dc;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-main {
+  text-align: center;
+}
+
+.image-main {
+  display: block;
+  height: 500px;
+  width: auto;
+  margin: 0 auto;
+}
+
+.section-header {
+  font-weight: 700;
+  text-align: center;
+}
+
+.section-header.sub {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
